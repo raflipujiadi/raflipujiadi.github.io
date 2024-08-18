@@ -41,8 +41,8 @@ round-avatar: true
 social-network-links:
   email: "pujiadirafli@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-facebook: Mohammad Rafli Pujiadi
-github: raflipujiadi
+  facebook: Mohammad Rafli Pujiadi
+  github: raflipujiadi
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -52,7 +52,7 @@ github: raflipujiadi
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-instagram: @rlfrafli
+  instagram: @rlfrafli
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
